@@ -1,0 +1,22 @@
+PODS:
+  - FlatUIKit (1.6.1)
+  - MBProgressHUD (0.9.1)
+  - NZAlertView (0.0.13):
+    - UIImage-Helpers
+  - QuadratTouch (1.1.1)
+  - UIImage-Helpers (0.0.3)
+
+DEPENDENCIES:
+  - FlatUIKit
+  - MBProgressHUD
+  - NZAlertView
+  - QuadratTouch
+
+SPEC CHECKSUMS:
+  FlatUIKit: c602127a0c4a347e0632b2c5aef5c8c5f386f2cf
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  NZAlertView: 3f08e809456b35f5cc64de2dcdc9f5fc3f8eb77f
+  QuadratTouch: 296d83c63a4328f6f40af9fc728fe24f0e3b00d4
+  UIImage-Helpers: 06b04a42bdd222844035602e87e936765c80f620
+
+COCOAPODS: 0.39.0
